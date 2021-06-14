@@ -1,0 +1,9 @@
+#forecast{
+    margin: 0;
+    padding: 0;
+}
+
+#card{
+    justify-content: flex-start;
+    align-content: flex-start;
+}
